@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi everyone ☺️ My name is Amirreza Hashemi, and I am an AI enthusiast and independent developer. I love to learn new things in CS.
 
-https://stackexchange.com/users/21750113
+<a href="https://stackexchange.com/users/21750113"><img src="https://stackexchange.com/users/flair/21750113.png" width="208" height="58" alt="profile for Amirreza Hashemi on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Amirreza Hashemi on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 
 ## 🌐 Socials:
