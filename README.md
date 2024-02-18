@@ -21,8 +21,6 @@ Hi everyone ☺️ My name is Amirreza Hashemi, and I am an AI enthusiast and in
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-![](https://komarev.com/ghpvc/?username=amirrezahmi&abbreviated=true)
-
 
 
 
